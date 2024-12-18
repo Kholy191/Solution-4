@@ -101,6 +101,52 @@ namespace Assignment
 
             //Console.WriteLine(sb);
             #endregion
+
+            #region Q17 Create a program that asks the user to input three points (x1, y1), (x2, y2), and (x3, y3), and determines whether these points lie on a single straight line.
+            //Console.WriteLine("Enter P1 Dimentions");
+            //int.TryParse(Console.ReadLine(), out int X1);
+            //int.TryParse(Console.ReadLine(), out int Y1);
+
+            //Console.WriteLine("Enter P2 Dimentions");
+            //int.TryParse(Console.ReadLine(), out int X2);
+            //int.TryParse(Console.ReadLine(), out int Y2);
+
+            //Console.WriteLine("Enter P3 Dimentions");
+            //int.TryParse(Console.ReadLine(), out int X3);
+            //int.TryParse(Console.ReadLine(), out int Y3);
+
+            //double Slope1 = 0;
+            //double Slope2 = 0;
+
+            //if (X2 != X1)
+            //{
+            //    Slope1 = (Y2 - Y1) / (X2 - X1);
+            //}
+            //else
+            //{
+            //    Console.WriteLine("These points lie on a vertical straight line.");
+            //}
+
+            //if (X3 != X2)
+            //{
+            //    Slope2 = (Y3 - Y2) / (X3 - X2);
+            //}
+            //else
+            //{
+            //    Console.WriteLine("These points lie on a vertical straight line.");
+            //}
+
+            //if (Slope1 == Slope2 && (X3 != X2 && X2 != X1))
+            //{
+            //    Console.WriteLine("these points lie on a single straight line.");
+            //}
+            //else if (X3 != X2 && X2 != X1)
+            //{
+            //    Console.WriteLine("these points don't lie on a single straight line.");
+            //}
+
+            #endregion
+
         }
     }
 }
