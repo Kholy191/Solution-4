@@ -71,6 +71,36 @@ namespace Assignment
             //}
             #endregion
 
+            #region Q16 Write a program in C# Sharp to convert a decimal number into binary without using an array.
+            //int Num = 0;
+            //Console.WriteLine("Enter a number to convert :");
+            //int.TryParse(Console.ReadLine(), out Num);
+
+            //StringBuilder sb = new StringBuilder();
+            //int Power = 0;
+            ////Finding Number of power of 2
+            //while ((Math.Pow(2, Power)) < Num)
+            //{
+            //    Power++;
+            //}
+            //Power--;
+            //sb.Append("1");
+            //Num = Num - (int)Math.Pow(2, Power);
+            //for (int i = (Power - 1); i >= 0; i--)
+            //{
+            //    if ((int)Math.Pow(2, i) <= Num)
+            //    {
+            //        sb.Append("1");
+            //        Num = Num - (int)Math.Pow(2, i);
+            //    }
+            //    else
+            //    {
+            //        sb.Append("0");
+            //    }
+            //}
+
+            //Console.WriteLine(sb);
+            #endregion
         }
     }
 }
